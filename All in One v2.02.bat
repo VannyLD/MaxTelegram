@@ -4,7 +4,7 @@ taskkill /IM "Max Telegram Pro.exe" /F
 timeout /t 2 /nobreak
 
 echo Downloading new version...
-powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/VannyLD/MaxStudio/releases/download/v1.2.4/BayonFX.Pro.v2.0.1.exe', 'Max Telegram Pro.exe')"
+powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://github.com/VannyLD/MaxTelegram/releases/download/v2.0.2/Max.Telegram.Pro.exe', 'Max Telegram Pro.exe')"
 
 echo Starting new version...
 start Max Telegram Pro.exe
