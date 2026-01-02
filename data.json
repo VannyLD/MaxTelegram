@@ -148,5 +148,11 @@
     "name": "H VIP",
     "date": "2025-12-31",
     "end_date": "2026-04-01"
+  },
+  {
+    "id": "FC43EB53DC225D43B0D3D4DF61D4FDD03F6C6D2B5B178AD998888B609E297B98",
+    "name": "Rotha",
+    "date": "2026-01-02",
+    "end_date": "2026-02-03"
   }
 ]
